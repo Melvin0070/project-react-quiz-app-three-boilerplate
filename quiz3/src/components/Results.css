@@ -1,0 +1,23 @@
+.stats{
+    display: flex;
+    justify-content: space-between;
+}
+.result{
+    width: 50vw;
+}
+.resultContainer{
+    background-color: aliceblue;
+    color: black;
+    padding: 1em 2em;
+}
+.buttons{
+    margin-top: 2em;
+    text-align: center;
+    
+}
+.buttons button{
+    margin: 1em ;
+}
+h1, h2{
+    text-align: center;
+}
